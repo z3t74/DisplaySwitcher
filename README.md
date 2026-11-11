@@ -9,7 +9,7 @@ This utility is using [MultiMonitorTool](https://www.nirsoft.net/utils/multi_mon
 4. Right click on tray icon
 5. When TV is turned off press Запомнить раскладку: ТВ выключен
 6. When TV is turned on press Запомнить раскладку: ТВ включён
-And its basicaly done. Now you can turn on/off tv display
+
 Also you can check "Автозапуск" to automaticaly run this on startup
 
 This repository basically only for me, so if anyone finds that useful I'll get very happy. Maybe I'll add english to it someday
