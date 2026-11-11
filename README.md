@@ -2,7 +2,7 @@ This utility is using [MultiMonitorTool](https://www.nirsoft.net/utils/multi_mon
 
 .ps1 script that is packed to .exe with ps2exe
 
-## How to use
+## How to Download and set up
 1. Download archive from Releases
 2. Unpack it anywhere you want
 3. Run DisplaySwitcher.exe
@@ -10,5 +10,6 @@ This utility is using [MultiMonitorTool](https://www.nirsoft.net/utils/multi_mon
 5. When TV is turned off press Запомнить раскладку: ТВ выключен
 6. When TV is turned on press Запомнить раскладку: ТВ включён
 And its basicaly done. Now you can turn on/off tv display
+Also you can check "Автозапуск" to automaticaly run this on startup
 
 This repository basically only for me, so if anyone finds that useful I'll get very happy. Maybe I'll add english to it someday
